@@ -4,5 +4,5 @@
 int main()
 {
     printf("hello world\n");
-    system("pause");
+    system("pause"); //暂停控制台
 }
