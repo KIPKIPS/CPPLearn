@@ -8,12 +8,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e4778c9-1743-44c5-b7f6-222691822396" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.oop/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/student.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/student.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.oop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.oop/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oop/oop.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/oop/oop.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/oop.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/oop/oop.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/student.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/oop/student.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/student.h" beforeDir="false" afterPath="$PROJECT_DIR$/oop/student.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/x64/Debug/oop.obj" beforeDir="false" afterPath="$PROJECT_DIR$/oop/x64/Debug/oop.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/x64/Debug/oop.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/oop/x64/Debug/oop.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/x64/Debug/oop.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/oop/x64/Debug/oop.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/x64/Debug/oop.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/oop/x64/Debug/oop.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/x64/Debug/student.obj" beforeDir="false" afterPath="$PROJECT_DIR$/oop/x64/Debug/student.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/x64/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/oop/x64/Debug/vc142.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/x64/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/oop/x64/Debug/vc142.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/oop.exe" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/oop.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/oop.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/oop.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/oop.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/oop.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706605208602</updated>
-      <workItem from="1706605217269" duration="3556000" />
+      <workItem from="1706605217269" duration="5584000" />
     </task>
     <servers />
   </component>

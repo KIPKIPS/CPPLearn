@@ -10,5 +10,7 @@ void main()
     // student stu1("kips", 100, 100, 80);//隐式构造函数
     cout << "total score: " << stu1.sum() << " average score: " << stu1.average() << " pass(Y/N): " << (
         stu1.pass() ? "Y" : "N") << endl;
+
+    friend_func(stu1);
     cin.get();
 }

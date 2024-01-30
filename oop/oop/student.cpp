@@ -1,4 +1,6 @@
 #include "student.h"
+#include <iostream>
+using namespace std;
 //使用::作用域解析符来标识函数所属的类
 void student::set_student(const string& name, const int chinese, const int math, const int english)
 {
@@ -47,4 +49,10 @@ int student::compare(student &s)
         return 0;
     }
     return -1;
+}
+
+//友元函数不需要类的作用域标识符
+void friend_func(const student &s)
+{
+    cout << s.name_ << endl;
 }

@@ -7,13 +7,16 @@ using namespace std;
 //关键字和类名
 class student
 {
+    //student类的友元函数,但是不是类成员
+    friend void friend_func(const student &s);
+    
     //私有成员
     string name_;
     int chinese_ = 0;
     int math_ = 0;
     int english_ = 0;
     void set_student(const string& name,int chinese,int math,int english);
-    static int pass_score = 60;
+    static const int pass_score = 60;
     
     //公共成员
     public:
