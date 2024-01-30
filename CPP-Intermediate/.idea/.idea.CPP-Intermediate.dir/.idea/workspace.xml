@@ -8,20 +8,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d0b077a-828b-4a4a-be58-299fb7905102" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Debug/Function.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CPP-Intermediate.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CPP-Intermediate.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CPP-Intermediate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CPP-Intermediate.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Debug/CPP-Intermediate.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/CPP-Intermediate.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Debug/CPP-Intermediate.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/CPP-Intermediate.ilk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Debug/CPP-Intermediate.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/CPP-Intermediate.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Debug/CPP-Intermediate.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/CPP-Intermediate.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Debug/CPP-Intermediate.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/CPP-Intermediate.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/CPP-Intermediate.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/CPP-Intermediate.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/CPP-Intermediate.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/CPP-Intermediate.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/CPP-Intermediate.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/CPP-Intermediate.tlog/CL.write.1.tlog" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/vc142.idb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/vc142.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloCPP/.vs/HelloCPP/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloCPP/.vs/HelloCPP/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloCPP/.vs/HelloCPP/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloCPP/.vs/HelloCPP/v16/Browse.VC.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="08c33444-c344-43f9-bbf7-e8fc602e6c34" />
+        <option name="url" value="https://github.com/KIPKIPS/CPPLearn.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CPP-Intermediate.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -34,19 +50,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="CPP-Intermediate" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -77,6 +93,7 @@
       <workItem from="1706521033746" duration="234000" />
       <workItem from="1706521284383" duration="292000" />
       <workItem from="1706521653608" duration="6121000" />
+      <workItem from="1706531000139" duration="9481000" />
     </task>
     <servers />
   </component>
