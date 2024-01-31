@@ -7,16 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e4cae4e-3658-48c9-a1b0-39b478ec096f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.operator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.operator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/operator.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/operator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/operator.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/operator.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/operator.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/operator.obj" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/operator.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/operator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/operator.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/vc142.idb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/vc142.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="2e4cae4e-3658-48c9-a1b0-39b478ec096f" name="Changes" comment="运算符重载" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706613594708</updated>
-      <workItem from="1706613603270" duration="16267000" />
+      <workItem from="1706613603270" duration="16555000" />
     </task>
     <servers />
   </component>
