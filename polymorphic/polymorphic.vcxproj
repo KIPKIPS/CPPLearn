@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{2B75ED4F-BE88-40E0-A31B-B2E9DF05937D}</ProjectGuid>
+    <ProjectGuid>{7989D67C-B38D-48E9-B983-D00113A692D9}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>game_opp</RootNamespace>
+    <RootNamespace>polymorphic</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -154,17 +154,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Character.cpp" />
-    <ClCompile Include="game_opp.cpp" />
-    <ClCompile Include="Mage.cpp" />
-    <ClCompile Include="Priest.cpp" />
-    <ClCompile Include="Warrior.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Character.h" />
-    <ClInclude Include="Mage.h" />
-    <ClInclude Include="Priest.h" />
-    <ClInclude Include="Warrior.h" />
+    <ClCompile Include="polymorphic.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
